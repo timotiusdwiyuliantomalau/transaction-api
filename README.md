@@ -30,13 +30,12 @@ GIN_MODE=debug
 
 LOG_LEVEL=info
 
-````
 
 ### 3. Database Setup (Menggunakan Docker)
 
 Gunakan Docker Compose
 ```bash
-docker-compose up -d
+docker compose up -d
 ````
 
 ### 4. Install Dependencies
