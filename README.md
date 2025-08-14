@@ -8,7 +8,7 @@ A simple backend system for managing transactions built using Golang, Gin Gonic,
 
 ```bash
 git clone <repository-url>
-cd backend
+cd transaction-api
 ```
 
 ### 2. Environment Setup
